@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  font-family: cursive;
+}
+
+html {
+  margin: 20px;
+  padding: 20px;
+  background-color: Linen;
+  text-align: center;
+}
+
+p {
+  font-weight: bold;
+}
+
+.main div {
+  background-color: LightSteelBlue;
+  border: solid black;
+  text-align: center;
+}
+
+a:hover {
+  text-decoration: underline;
+}
